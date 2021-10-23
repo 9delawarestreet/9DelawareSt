@@ -1,5 +1,3 @@
-# 9DelawareSt
-
 **Notice for visitors to 9 Delaware Street, Epping NSW 2121**
 
 This website has been set up by the owners of the real-world address:
