@@ -21,4 +21,4 @@ Thank you for your understanding.
 
 ---
 
-_* Although, they write the address as "09 Delaware St, Epping NSW 2121" &mdash; clearly they are not based in Australia and do not seem to realise that in Australia, we do not zero-pad our street numbers!_
+_* Although, they write the address as "09 Delaware St, Epping NSW 2121" &mdash; clearly they are not based in Australia and do not seem to realise that in Australia, we do not left-pad our street numbers with zeroes!_
